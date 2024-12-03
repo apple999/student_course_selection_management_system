@@ -1,0 +1,5 @@
+1 1 1 0 
+peter winmaple 夏茂林 3 gs2021 wlylsy2021 xxds2021 
+stu001 123456 张三 0 gs2021 xxds2021 
+stu002 111111 王小炮 0 
+stu003 111232 王小2 0 
